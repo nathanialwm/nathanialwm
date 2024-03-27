@@ -1,8 +1,11 @@
 Nathanial Martin
 
-I am a self-taught data analyst with some background in web development. 
-I received an Associate's Degree from SUNY Cobleskill in Graphic Design
-  Most of my general education classes were in computer science and business
-I have a variety of work experience including retail management, warehousing, supply chain, and entrepreneurship 
-I am a hobbyist, I would have 100s of hobbies if time and money allowed it
-  My current main hobbies are rock climbing and learning bass guitar
+I am a computer science student and the owner of an online reselling business. 
+I have interest in many technical fields, but my focus so far has been on data analysis. 
+I am well-versed in Python, SQL, Tableau, Excel and Javascript. 
+
+I also have past experience with graphic design, web development, photography, and digital art. 
+My background in graphic arts allows me to create good-looking and easy to understand dashboards with several different software including: Tableau, Excel and Adobe products
+
+Simultaneously, I'm honing my data analysis portfolio and pursuing my Bachelors degree in computer science. 
+I am actively seeking entry-level roles in the industry as I progress forward.
