@@ -1,5 +1,7 @@
 **Nathanial Martin**
 
+https://nathanialmartin.com/
+
 I am a computer science student and the owner of an online reselling business. I have worked in many OOP languages including: Typescript, Rust, Python, Java, C# and have also worked with SQL. I really enjoy the problem-solving aspect of programming and especially enjoy creating tools that help other's perform or solve more efficiently, and working with algorithms.
 
 I am actively seeking internships and full-time junior positions for gameplay engineering/tools engineering and other scripting roles.
