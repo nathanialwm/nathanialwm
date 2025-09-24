@@ -1,6 +1,6 @@
 **Nathanial Martin**
 
-I am a computer science student and the owner of an online reselling business. I have worked in many OOP languages including: Typescript, Python, Java, C# and have also worked with SQL. I really enjoy the problem-solving aspect of programming which means my passion is in core gameplay mechanics, optimizations and dynamic programming.
+I am a computer science student and the owner of an online reselling business. I have worked in many OOP languages including: Typescript, Rust, Python, Java, C# and have also worked with SQL. I really enjoy the problem-solving aspect of programming which means my passion is in core gameplay mechanics, optimizations and dynamic programming.
 
 I am in my junior year and actively searching for internships and part-time work within software, app, and game development as well as data analytics.
 
