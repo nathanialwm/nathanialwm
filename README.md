@@ -4,7 +4,7 @@ https://nathanialmartin.com/
 
 Software engineer with specialization in tool and system development, and a deep interest in learning many different things. I blend my interpersonal skills, my background in design, and my invesment to clean and efficient coding practices to create tools that work and are easy to use. 
 
-I'm highly experience with Python and am gaining traction in C++. I have also many other languages for small-mid level projects such as: C#, Java, Rust, Typescript.
+I'm highly experienced with Python and am gaining traction in C++. I have also used many other languages for small-mid level projects such as: C#, Java, Rust, Typescript.
 
 I am actively seeking internships and full-time junior positions for gameplay engineering/tools engineering and other scripting roles.
 
