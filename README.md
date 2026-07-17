@@ -1,4 +1,5 @@
 **Nathanial Martin**
+
 https://nathanialmartin.com/
 
 I find passion in efficiency, creating scaling distributed systems, improving algorithms, finding a way to safely use an array instead of a list...
