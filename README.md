@@ -1,26 +1,17 @@
 **Nathanial Martin**
-
 https://nathanialmartin.com/
 
-Software engineer with specialization in tool and system development, and a deep interest in learning many different things. I blend my interpersonal skills, my background in design, and my invesment to clean and efficient coding practices to create tools that work and are easy to use. 
+I find passion in efficiency, creating scaling distributed systems, improving algorithms, finding a way to safely use an array instead of a list...
 
-I'm highly experienced with Python and am gaining traction in C++. I have also used many other languages for small-mid level projects such as: C#, Java, Rust, Typescript.
+I spent nearly a decade programming occasionally as a hobby and am now finishing my Bachelor's in Computer Science at SUNY Albany (Dec 2026), while working two different SWE internships. I consider myself a jack of many trades, but have the most experience with Python scripting and RESTful APIs. I'm really interested in improving the developer experience as well, and have made several CLIs.
 
-I am actively seeking internships and full-time junior positions for gameplay engineering/tools engineering and other scripting roles.
+**Currently learning:** Go, Rust
 
-**Pathfinding Algorithm Visualizer**
+**Projects**
+- **SyllaScribe** Full-stack app (React, MongoDB, local backend) integrating the Gemini API to parse syllabi into structured grade breakdowns. Led backend/DB design, reviewed 26 PRs.
+- **Pathfinding Algorithm Visualizer** React/TypeScript tool visualizing A*, Dijkstra's, and others on a custom editable-grid node structure. 4th place, hackathon.
+- **Tran Language Interpreter** Lexer, parser, and interpreter built from scratch in Java for a Python/Java-like language, full arithmetic and control flow support.
+- **No Service** Ludum Dare 59 entry, and top 35%. A platformer made in Unity, all about reaching great heights to get phone service.
 
-Code: https://github.com/nathanialwm/PathingVisualizer
-
-Demo: https://nathanialwm.github.io/PathingVisualizer/
-
-<img src="https://github.com/user-attachments/assets/68c41408-9ab1-4350-92cb-c0b49c361d4a" alt="algorithm" width="500"/>
-
-
-**AutoBattler RPG**
-
-Code: https://github.com/nathanialwm/AutoBattle-RPG
-
-<img src="https://github.com/user-attachments/assets/7411e903-44a3-4fea-9956-fd5d8603a84b" alt="autorpg2" width="400"/>
-<img src="https://github.com/user-attachments/assets/a4049640-5939-4bd7-87b0-362ed619d441" alt="autorpg1" width="400"/>
-
+**Stack**
+Python, C#, Go, Rust, SQL · MongoDB, PostgreSQL, SQLite · Docker, Git, Linux, Azure
