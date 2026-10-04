@@ -4,7 +4,7 @@ https://nathanialmartin.com/
 
 I find passion in efficiency, creating scaling distributed systems, improving algorithms, finding a way to safely use an array instead of a list...
 
-I spent nearly a decade programming occasionally as a hobby and am now finishing my Bachelor's in Computer Science at SUNY Albany (Dec 2026), while working an Observability internship with NYS ITS. I consider myself a jack of many trades, but have the most experience with Python scripting and RESTful APIs. I'm really interested in improving the developer experience as well, and have made several CLIs.
+I spent nearly a decade programming occasionally as a hobby and am now finishing my Bachelor's in Computer Science at SUNY Albany (Dec 2026), while working a part-time Observability engineer position with NYS ITS. I consider myself a jack of many trades, but have the most experience with Python scripting and RESTful APIs. I'm really interested in improving the developer experience as well, and have made several CLIs.
 
 **Projects**
 - **Rad Survival** A Server-authoritative multiplayer Idle RPG, built solo with Claude Code. Currently in closed alpha https://rad-survival.com
